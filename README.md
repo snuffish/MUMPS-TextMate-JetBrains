@@ -1,1 +1,11 @@
-# WIP
+# MUMPS TextMate Bundle for IntelliJ (JetBrains)
+
+M/MUMPS/Cache language syntax for IntelliJ (JetBrains).
+
+## Install
+
+1. Clone repository
+2. File -> Settings -> Editor -> TextMate Bundles
+3. Add the directory
+4. Apply & Close
+5. Done!
