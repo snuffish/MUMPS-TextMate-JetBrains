@@ -12,8 +12,10 @@
           "MUMPS"
         ],
         "extensions": [
+          ".int",
           ".m",
-          ".mps"
+          ".mps",
+          ".zwr"
         ],
         "mimetypes": [
           "text/plain"
