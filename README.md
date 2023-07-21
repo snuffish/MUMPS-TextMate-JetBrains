@@ -9,5 +9,6 @@ The matching patterns has been taken from https://github.com/ksherlock/MUMPS.tmb
 1. Clone repository
 2. File -> Settings -> Editor -> TextMate Bundles
 3. Add the directory
-4. Apply & Close
-5. Done!
+4. Disable/Remove the Objective-C Bundle, it collides with this Bundle.
+5. Apply & Close
+6. Done!
