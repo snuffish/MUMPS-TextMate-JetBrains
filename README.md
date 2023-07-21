@@ -2,6 +2,8 @@
 
 M/MUMPS/Cache language syntax for IntelliJ (JetBrains).
 
+The matching pattern has been taken from https://github.com/ksherlock/MUMPS.tmbundle/blob/master/Syntaxes/mumps.tmLanguage.
+
 ## Install
 
 1. Clone repository
