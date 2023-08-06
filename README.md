@@ -14,3 +14,6 @@ The matching patterns has been taken from https://github.com/ksherlock/MUMPS.tmb
 5. Apply & Close
 6. Done!
 
+------
+
+<img width="741" alt="image" src="https://github.com/snuffish/MUMPS-TextMate-JetBrains/assets/7936745/a781a443-1971-4a83-81fe-84f7ebd61acc">
