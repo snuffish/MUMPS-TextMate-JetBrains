@@ -16,4 +16,5 @@ The matching patterns has been taken from https://github.com/ksherlock/MUMPS.tmb
 
 ------
 
-<img width="741" alt="image" src="https://github.com/snuffish/MUMPS-TextMate-JetBrains/assets/7936745/a781a443-1971-4a83-81fe-84f7ebd61acc">
+![image](https://github.com/snuffish/MUMPS-TextMate-JetBrains/assets/7936745/522e71cd-9b8c-4b35-8875-d53f7c47612d)
+
